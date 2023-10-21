@@ -1,0 +1,10 @@
+# Points possible
+2
+
+# Network file
+tests/3node_net.txt
+tests/3node_trips.txt
+
+# Answer (backlink, cost)
+(1,2) 1000
+(2,3) 2000

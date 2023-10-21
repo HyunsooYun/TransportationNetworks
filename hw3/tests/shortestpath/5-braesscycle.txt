@@ -1,0 +1,15 @@
+# Points possible
+3
+
+# Network file
+tests/braess_cycle_net.txt
+tests/braess_trips.txt
+
+# Origin
+1
+
+# Answer (backlink, cost)
+N/A 0
+(3,2) 3
+(1,3) 2
+(2,4) 5

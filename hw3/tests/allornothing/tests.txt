@@ -1,0 +1,7 @@
+# List of shortest path tests
+
+1-2node.txt
+2-3node3.txt
+3-braess.txt
+4-siouxfalls.txt
+

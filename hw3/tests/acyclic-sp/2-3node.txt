@@ -1,0 +1,14 @@
+# Points possible
+3
+
+# Network file
+tests/3node_net.txt
+tests/3node_trips.txt
+
+# Origin
+1
+
+# Answer (backlink, cost)
+N/A 0
+(1,2) 1
+(2,3) 2

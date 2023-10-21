@@ -1,0 +1,7 @@
+<NUMBER OF ZONES> 9
+<TOTAL OD FLOW> 1000
+<END OF METADATA>
+
+
+Origin 	7 
+    3 :  1000;

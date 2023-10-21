@@ -1,0 +1,9 @@
+# Points possible
+2
+
+# Network file
+tests/2node_net.txt
+tests/2node_trips.txt
+
+# Answer (link, flow)
+(1,2) 1000
