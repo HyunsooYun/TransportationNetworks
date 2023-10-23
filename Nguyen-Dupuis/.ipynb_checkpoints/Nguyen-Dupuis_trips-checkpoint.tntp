@@ -1,9 +1,7 @@
 <NUMBER OF ZONES> 4
-<TOTAL OD FLOW> 4000.0
+<TOTAL OD FLOW> 10.0
 <END OF METADATA>
 
 Origin 	1 
-    2 :  1000.0;     3 :  1000.0;
+    2 :  10.0;     
 
-Origin 	4 
-    2 :  1000.0;     3 :  1000.0;
